@@ -2,7 +2,7 @@
 
 # About Librenaut
 
-Librenaut or Liberated Internaut is a state of enlightened existence that transcends time and space and one that evolved out of experiences of attaining freedom and liberation from all the restrictions that we as a species have set on ourselves both in real world as well as online provided these freedoms do not infringe on the freedoms of another human being and causes any form of abuse or hurt to them emotionally, mentally, spiritually, psychologically or spiritually. 
+Librenaut aka Liberated Internaut is a state of enlightened existence that transcends time and space and one that organically evolved out of experiences of attaining freedom and liberation from all the restrictions that we as a species have set on ourselves both in real world as well as online while ensuring that these freedoms do not infringe on the freedom of another human being and causes any form of abuse or hurt to them emotionally, mentally, spiritually, psychologically or spiritually. 
 
 Librenaut values:
 
@@ -16,7 +16,7 @@ Librenaut values:
 
 5. Right to privacy.
 
-This will be my space to express my free thoughts, free as in freedom software and free knowledge and a space where I can collaborate with other like minded souls
+This will be my space to express my free thoughts, free as in freedom software, free knowledge and a space where I can collaborate with other like minded souls
 
 
 ## Contact ##

@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+## Welcome to Librenaut's Space
 
-You can use the [editor on GitHub](https://github.com/librenaut/librenaut.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# About Librenaut
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Librenaut or Liberated Internaut is a state of enlightened existence that transcends time and space and one that evolved out of experiences of attaining freedom and liberation from all the restrictions that we as a species have set on ourselves both in real world as well as online provided these freedoms do not infringe on the freedoms of another human being and causes any form of abuse or hurt to them emotionally, mentally, spiritually, psychologically or spiritually. 
 
-### Markdown
+Librenaut values:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. Free Thought
 
-```markdown
-Syntax highlighted code block
+2. Free Speech
 
-# Header 1
-## Header 2
-### Header 3
+3. Free Knowledge
 
-- Bulleted
-- List
+4. Free Expression
 
-1. Numbered
-2. List
+5. Right to privacy.
 
-**Bold** and _Italic_ and `Code` text
+This will be my space to express my free thoughts, free as in freedom software and free knowledge and a space where I can collaborate with other like minded souls
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Contact ##
 
-### Jekyll Themes
+Email: ch DOT Protonmail AT librenaut
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/librenaut/librenaut.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+Maxtrix: librenaut
 
-### Support or Contact
+IRC: librenaut @ irc.libera.chat
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+

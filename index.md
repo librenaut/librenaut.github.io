@@ -1,6 +1,6 @@
-## Welcome to Librenaut's Space
+# Welcome to Librenaut's Space
 
-# About Librenaut
+## About Librenaut
 
 Librenaut aka Liberated Internaut is a state of enlightened existence that transcends time and space and one that organically evolved out of experiences of attaining freedom and liberation from all the restrictions that we as a species have set on ourselves both in real world as well as online while ensuring that these freedoms do not infringe on the freedom of another human being and causes any form of abuse or hurt to them emotionally, mentally, spiritually, psychologically or spiritually. 
 
@@ -19,7 +19,7 @@ Librenaut values:
 This will be my space to express my free thoughts, free as in freedom software, free knowledge and a space where I can collaborate with other like minded souls
 
 
-## Contact ##
+### Contact ##
 
 Email: ch DOT Protonmail AT librenaut
 

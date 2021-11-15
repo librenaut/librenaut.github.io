@@ -29,6 +29,4 @@ Maxtrix: librenaut
 
 IRC: librenaut @ irc.libera.chat
 
-Blog: https://librenaut.noblogs.org/
-
-
+Blog: link <https://librenaut.noblogs.org/>
